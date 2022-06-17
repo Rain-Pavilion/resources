@@ -1,2 +1,2 @@
 # resources
-github resources repository
+Rain pavilion github resources repository
